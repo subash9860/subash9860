@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ...python
 - 🤔 I’m looking for help with ...ML
 - 💬 Ask me about ... python
-- 📫 How to reach me: ... subash-kc.com.np
+- 📫 How to reach me: ... ##subash-kc.com.np
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... I can code without coffee.
 ### Connect with me:
