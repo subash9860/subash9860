@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...flutter
-- 🌱 I’m currently learning ...C/Python/Dart
-- 👯 I’m looking to collaborate on ...python
+- 🔭 I’m currently working on ...flutter and dart
+- 🌱 I’m currently learning ...Python
+- 👯 I’m looking to collaborate on ...flutter
 - 🤔 I’m looking for help with ...ML
 - 💬 Ask me about ... python
 - 📫 How to reach me: ... subaazkc@gmail.com
