@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on ...flutter and dart
 - 🌱 I’m currently learning ...Python
 - 👯 I’m looking to collaborate on ...flutter
-- 🤔 I’m looking for help with ...ML
-- 💬 Ask me about ... python
+- 💬 Ask me about ... flutter and python
 - 📫 How to reach me: ... subaazkc@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... I can code without coffee.
