@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...flutter and dart
-- 🌱 I’m currently learning ...Python
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... I can code without coffee.
+- 🔭 I’m currently working on flutter and dart
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I can code without coffee.
 
 ### Connect with me:
 www.subash-kc.com.np
