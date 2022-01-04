@@ -18,21 +18,16 @@
 &emsp;
 
 ## 🛠️ Tech Stack:
-### Programming languages
-
 <p align="left"> 
   &emsp;
+  <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+  </a> 
   <a href="https://dart.dev/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/dart.png" alt = "dart" width = "50"/>
   </a> 
-  &emsp;
-  <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt = "Python" width = "50"/>
-  </a> 
-  &emsp;
-  <a href="https://www.javascript.com/" target="_blank"> 
-     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt = "JavaScript" width = "50"/>
-   </a>
+   &emsp;
+  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
   &emsp;
   <a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt = "c" width = "50"/>
@@ -43,31 +38,6 @@
   </a>
   &emsp;
 </p>
-
-### Mobile app Development
-
-<p align="left"> 
-  &emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-    <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
-  </a> 
-</p>
-
-
-### Databases & Cloud Hosting
-
-<p align="left">
- &emsp;
-  <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-  &emsp;
-    <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/></a>
- &emsp; 
-    <a href="https://www.heroku.com/"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>  
-  &emsp;
-</p>
-
-
-### Frontend Development
 
 <p align="left"> 
   &emsp; 
@@ -83,27 +53,27 @@
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   </a>
 &emsp; 
+  &emsp;
+  <a href="https://www.javascript.com/" target="_blank"> 
+     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt = "JavaScript" width = "50"/>
+   </a>
 </p>
 
-### Backend Development
-
 <p align="left"> 
+  &emsp;
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt = "Python" width = "50"/>
+  </a> 
   &emsp;
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png"/>
   </a> 
+   &emsp;
+   <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/></a>
+ &emsp; 
+    <a href="https://www.heroku.com/"><img src="https://img.icons8.com/color/48/000000/heroku.png"/></a>  
+  &emsp;
 </p>
-
-### Graphic Designing
-<p align="left">
-  &emsp;  
-  <a href="#">
-  	<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-  </a>
-&emsp; 
- </p>
-
-### Software & Tools
 
 <p align="left">
   &emsp;
@@ -113,6 +83,10 @@
   &emsp;
     <a href="#"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
   &emsp;
+    <a href="#">
+  	<img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+  </a>
+&emsp; 
     <a href="#"><img alt="Jupyter" src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
 </p>
 
