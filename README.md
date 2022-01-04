@@ -1,6 +1,6 @@
 ### 👋 Hi there, I am Subash kc.
 
-        I am student of computer science and Flutter Developer with 2+ years experience.
+    I am student of computer science and Flutter Developer with 2+ years experience.
 - 🔭 I’m currently working on Flutter mobile application development.
 - 🌱 I’m currently learning Django, python web backend framework.
 - 💬 Ask me about Flutter, python.
