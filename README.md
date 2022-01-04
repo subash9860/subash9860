@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Flutter mobile application development.
 - 🌱 I’m currently learning Django, python web backend framework.
 - 💬 Ask me about Flutter, python.
-- 📫 How to reach me: [Facebook]([www.](https://www.facebook.com/subaazkc/))
+- 📫 How to reach me: [Facebook](https://www.facebook.com/subaazkc/)
 - ⚡ Fun fact: Code never lies, comments sometimes do.
 - <img src="https://img.icons8.com/fluency/48/000000/domain.png" height="16" width= "16"/> Portfolio: [subash-kc.com.np](https://www.subash-kc.com.np/)
   
