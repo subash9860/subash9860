@@ -2,8 +2,8 @@
 
    I am student of computer science.
 - 🔭 I’m currently working on Flutter mobile application development.
-- 🌱 I’m currently learning Django, python web backend framework.
-- 💬 Ask me about Flutter, python.
+<!-- - 🌱 I’m currently learning Django, python web backend framework. -->
+- 💬 Ask me about Flutter.
 - 📫 How to reach me: [Facebook](https://www.facebook.com/subaazkc/)
 - ⚡ Fun fact: Code never lies, comments sometimes do.
 - <img src="https://img.icons8.com/fluency/48/000000/domain.png" height="16" width= "16"/> Portfolio: [subash-kc.com.np](https://www.subash-kc.com.np/)
@@ -38,10 +38,10 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" height= "40" width = "40"/>
   </a> 
    &nbsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height= "40" width = "40"/>
-  </a>
-&nbsp;
+<!--   <a href="https://getbootstrap.com" target="_blank">  -->
+<!--    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height= "40" width = "40"/> -->
+<!--   </a> -->
+<!-- &nbsp; -->
   <a href="https://www.javascript.com/" target="_blank"> 
      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt = "JavaScript" height= "40" width = "40"/>
    </a>
@@ -50,10 +50,10 @@
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt = "Python" height= "40" width = "40"/>
   </a> 
   &nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" height= "40" width = "40"/>
-  </a> 
-  &nbsp;
+<!--   <a href="https://www.djangoproject.com/" target="_blank">  -->
+<!--     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-shadow-tal-revivo.png" height= "40" width = "40"/> -->
+<!--   </a>  -->
+<!--   &nbsp; -->
    <a href="https://www.mysql.com/"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/></a>
   &nbsp;
     <a href="#"><img src="https://img.icons8.com/color/48/000000/git.png" height= "40" width = "40"/></a>
