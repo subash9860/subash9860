@@ -7,6 +7,8 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/subaazkc/)
 - ⚡ Fun fact: Code never lies, comments sometimes do.
 - <img src="https://img.icons8.com/fluency/48/000000/domain.png" height="16" width= "16"/> Portfolio: [subash-kc.com.np](https://www.subash-kc.com.np/)
+
+   ![](https://komarev.com/ghpvc/?username=subash9860)
   
 ## Connect with me:
 <a href="mailto: subaazkc@gamil.com" > <img src ="https://img.icons8.com/color/48/000000/gmail-new.png" alt = "Gmail" height= "40" width = "40"> </a>&emsp;
