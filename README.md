@@ -7,11 +7,9 @@
 - 📫 How to reach me: [Facebook](https://www.facebook.com/subaazkc/)
 - ⚡ Fun fact: Code never lies, comments sometimes do.
 - <img src="https://img.icons8.com/fluency/48/000000/domain.png" height="16" width= "16"/> Portfolio: [subash-kc.com.np](https://www.subash-kc.com.np/)
-
-   ![](https://komarev.com/ghpvc/?username=subash9860)
-   
-   ![](https://hit.yhype.me/github/profile?user_id=59048447)
   
+  ![](https://komarev.com/ghpvc/?username=subash9860)
+   ![](https://hit.yhype.me/github/profile?user_id=59048447)
 ## Connect with me:
 <a href="mailto: subaazkc@gamil.com" > <img src ="https://img.icons8.com/color/48/000000/gmail-new.png" alt = "Gmail" height= "40" width = "40"> </a>&emsp;
 <a href="https://www.linkedin.com/in/subash-kc-71460819b/" > <img src ="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt = "linkedIn" height = "40" width = "40"> </a>
