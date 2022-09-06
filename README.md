@@ -70,11 +70,10 @@
     <a href="https://www.cplusplus.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt = "c++"height= "40" width = "40"/>
   </a>
-</p>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subash9860&theme=tokyonight&layout=compact)
+</p> 
+<p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subash9860&theme=tokyonight)
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash9860&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="subash kc" /></p> -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subash9860&theme=tokyonight&layout=compact)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subash9860&layout=compact&theme=tokyonight" alt="subash kc" /></p>
