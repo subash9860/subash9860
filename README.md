@@ -72,8 +72,9 @@
   </a>
 </p>
 
-<img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=subash9860&show_icons=true &theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subash9860&theme=tokyonight&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subash9860&theme=tokyonight)
 
-<!-- ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) -->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash9860&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="subash kc" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subash9860&layout=compact&theme=tokyonight" alt="subash kc" /></p>
