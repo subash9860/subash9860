@@ -72,6 +72,4 @@
 <p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subash9860&theme=tokyonight)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subash9860&theme=tokyonight&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subash9860&layout=compact&theme=tokyonight" alt="subash kc" /></p>
