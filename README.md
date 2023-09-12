@@ -1,10 +1,9 @@
 ### 👋 Hi there, I am Subash kc.
 
-   I am student of computer science.
+   I am a student of computer science.
 - 🔭 I’m currently working on Flutter mobile application development.
-<!-- - 🌱 I’m currently learning Django, python web backend framework. -->
 - 💬 Ask me about Flutter.
-- 📫 How to reach me: [Facebook](https://www.facebook.com/subaazkc/)
+- 📫 How to reach me: [Linkedin]([https://www.facebook.com/subaazkc/](https://www.linkedin.com/in/subash-kc-71460819b/))
 - ⚡ Fun fact: Code never lies, comments sometimes do.
 - <img src="https://img.icons8.com/fluency/48/000000/domain.png" height="16" width= "16"/> Portfolio: [subash-kc.com.np](https://www.subash-kc.com.np/)
   
@@ -30,6 +29,8 @@
   <a href="https://dart.dev/" target="_blank"> 
     <img src="https://img.icons8.com/color/48/000000/dart.png" alt = "dart" height= "40" width = "40"/>
   </a> 
+   &nbsp;
+   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" height= "40" width = "40" alt="Nest JS Logo" /></a>
    &nbsp;
   <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png" height= "40" width = "40"/></a>
   &nbsp;
