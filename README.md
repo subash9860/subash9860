@@ -32,7 +32,7 @@
    &nbsp;
    <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" height= "40" width = "40" alt="Nest JS Logo" /></a>
    &nbsp;
-      <a href="https://www.typescriptlang.org/" target="blank"><img src="https://icons8.com/icon/nCj4PvnCO0tZ/typescript" height= "40" width = "40" alt="Typescript" /></a>
+      <a href="https://www.typescriptlang.org/" target="blank"><img src="https://img.icons8.com/color/48/000000/typeScript.png" height= "40" width = "40" alt="Typescript" /></a>
    &nbsp;
       <a href="https://www.postgresql.org/" target="blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" height= "40" width = "40" alt="Postgres" /></a>
    &nbsp;
