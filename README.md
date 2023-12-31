@@ -36,7 +36,7 @@
    &nbsp;
       <a href="https://www.postgresql.org/" target="blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" height= "40" width = "40" alt="Postgres" /></a>
    &nbsp;
-     <a href="https://laravel.com/"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" height= "40" width = "100"/></a>
+     <a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" height= "40" width = "100"/></a>
   &nbsp;
         <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/150px-Amazon_Web_Services_Logo.svg.png" height= "40" width = "40"/></a>
   &nbsp;
