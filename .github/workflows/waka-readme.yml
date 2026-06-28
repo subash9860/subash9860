@@ -1,0 +1,22 @@
+name: Update WakaTime Coding Stats
+
+on:
+  schedule:
+    # Runs once a day at 00:30 UTC
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Inject WakaTime stats into README
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 8
+          SHOW_TITLE: "false"
+          BLOCKS: "░▒▓█"
